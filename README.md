@@ -16,5 +16,5 @@ Going through each set of stocks, created pairwise links across stocks by counti
 
 
 
-Performed LDA topic modeling on the text to create some pricing factors, and then relate these pricing factors to future movements in cryptocurrency prices.
+Performed LDA topic modeling on the text to create some pricing factors, and then relate these pricing factors to future movements in cryptocurrency prices (Download the LDA html file for the sample groups in TSLA tweets)
 
